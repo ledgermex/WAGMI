@@ -30,10 +30,21 @@ at $120 if called upon to do so.
 
 
 ```
-
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=4HMm6mBvGKE" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=4HMm6mBvGKE"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGKE).
 
-### Jekyll Themes
+### RIGHTS AND OBLIGATIONS
+
+The fact that the individual or institution who holds the option has the right and not the obligation to exercise the derivative means that if the result of the operation turns out to be unprofitable, the holder can abstain from completing the transaction and his sole loss would be the premium paid to purchase the option.
+On the other hand, if the holder does exercise the option, the seller of the option must fulfill the contract.
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
