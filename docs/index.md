@@ -42,15 +42,14 @@ On the other hand, if the holder does exercise the option, the seller of the opt
 
 
 ...
-
-                        Buyer has all the rights                          Seller get all the obligation
+                         °°°Buyer has all the rights °°°                         Seller get all the obligation
                         
  CALLS                   Right to buy the asset                            Obliged to sell the asset
 
  PUTS                    Right to sell the asset                           Obliget to buy the asset
 
-
 ...
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
