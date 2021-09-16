@@ -57,7 +57,8 @@ On the other hand, if the holder does exercise the option, the seller of the opt
 
 Options can be used for four main purposes:
 
-☑️ Hedging/Risk Management  Leverage
+☑️ Hedging/Risk Management
+☑️ Leverage
 ☑️ Income
 ☑️ Speculation
 
