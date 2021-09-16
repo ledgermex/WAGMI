@@ -1,8 +1,9 @@
-## . . . the crypto box.
+## OOptions for Dummies 
 
-You can use the [editor on GitHub](https://github.com/ledgermex/WAGMI/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+INTRODUCTION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Financial derivatives have been around for at least 200 hundred years since the Japanese introduced the first secondary market for derivatives related to commodities. Nevertheless, they made their debut in the U.S. after the Chicago Board of Trade was founded, in 1848, to organize commodities trading activities. These markets introduced futures and opened the doors for many new financial instruments including options. In this chapter, we will explain the basics of how options work and how they are usually employed in today’s modern financial markets.
+An option is a contract between two parties giving the taker (buyer) the right, but not the obligation, to buy or sell a security at a predetermined price on or before a predetermined date. To acquire this right, the taker pays a premium to the writer (seller) of the contract.
 
 ### Markdown
 
