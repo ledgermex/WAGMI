@@ -292,7 +292,48 @@ Time value will vary between in-the-money, at-the-money and out-of-the-money opt
 Out-of-the-money options are comprised entirely of time value.
 Deep in-the-money options will be made up of mostly intrinsic value and will have very little time value.
 As time draws closer to expiry, the chance of a favourable movement in the underlying asset declines and therefore the time value declines.
-This erosion of time value is called time decay. Time decay picks up speed as expiration approaches. Some of you may have seen a similar chart to this:
+This erosion of time value is called time decay. Time decay picks up speed as expiration approaches. 
+
+
+### TIME VALUE AND VOLATILITY
+
+Time value is very much impacted by the anticipated level of volatility during the options life. A highly volatility stock will have much larger time value than a low volatility stock.
+This represents the increased chance that the volatile stock will make a big move during the options life.
+At the time of writing ROKU, a high-flying tech stock with high volatility was trading around the same price as Proctor and Gamble a stable low volatility stock in the consumer goods sector.
+ROKU implied volatility is around 88% and PG implied volatility is at 22%, as a result we would expect ROKU options to be MUCH more expensive.
+From the two tables below, it’s clear to see that ROKU options have much higher time value across the board.
+As ROKU is a much more volatile underlying asset than PG, there is a much greater chance that the stock will make a big move during the next 31 days and this is reflected in the option prices.
+For example, the $105 strike puts are almost worthless at only $0.30 for PG, this reflects the fact that market participants think there is very little chance of PG reaching this level before expiry.
+The ROKU $105 put on the other hand is valued at $5.30 showing that the market thinks there is a good chance that ROKU might reach that level before expiry.
+
+
+###OPTION PRICING AND VOLATILITY
+
+As we have seen above, the level of volatility can have a big impact on the prices of options, but how do we know the volatility of an underlying asset?
+There are two different types of volatility – historical volatility and implied volatility.
+Historical Volatility is calculated by measuring an assets stocks past price movements. It is a known figure as it is based on past data.
+The data is readily available, so there is no need to calculate it yourself. The main point you need to know here is that in general, stocks that have had large price swings in the past will have high levels of Historical Volatility.
+As options traders, we are more interested in how volatile a stock is likely to be during the duration of our trade. Historical Volatility will give some guide to how volatile a stock has been, but there is no way to predict future volatility.
+The best we can do is estimate it and this is where implied volatility comes in.
+Implied volatility is an estimate, made by professional traders and market makers of the future volatility of a stock. It is the only unknown factor in the options pricing model, because there is no way to know for certain how volatile a stock will be in the future. The best we can do is estimate it based on past behaviour and current market events.
+Implied Volatility takes into account any events that are known to be occurring during the lifetime of the option which may have an impact on the price of the underlying stock.
+This could include an earnings announcement or the release of drug trial results for a pharmaceutical company.
+The current state of the general market is also incorporated into implied volatility estimates. If markets are calm, volatility estimates are low, but during times of market stress volatility estimates will be raised.
+One very simple way to keep an eye on the general market levels of volatility is to monitor the VIX Index.
+
+###OPTION PRICING AND INTEREST RATES
+
+Interest rates also have an impact on option prices, however the impact is minimal and certainly much less than the impact of volatility.
+Shorter-term options are also less impacted by changes in interest rates.
+When interest rates rise, call option prices will increase while put option prices will decrease.
+The logic behind this is as follows. Assume an investor wants to take an exposure to a particular stock. Instead of buying the shares which might cost say $10,000, the investor buys call options total for $1,000. Buying the call options gives a similar exposure and the remaining $9,000 can be invested to earn some interest. Higher interest rates mean higher income on the $9,000. This makes the call option more attractive and therefore more expensive.
+The opposite is true for put options. With high interest rates, put options are less attractive. This is because rather than holding the asset and buying a put option, the investor would be better off simply selling the asset and investing the proceeds at the higher interest rate.
+
+### OPTION PRICING AND DIVIDENDS
+
+Cash dividends affect option prices through their effect on the underlying stock price. Because the stock price is expected to drop by the amount of the dividend on the ex-dividend date, high cash dividends imply lower call premiums and higher put premiums.
+Options prices will anticipate the dividend amounts weeks and months in advance.
+Dividends are an important factor when deciding whether to exercise options early. Whoever owns the stock on the ex-dividend date receives the dividend, so call option holders may exercise the option early in order to capture the dividend.
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
