@@ -430,8 +430,13 @@ Long-Term Equity AnticiPation Securities® (LEAPS®) options are far more sensit
 You can see the effects of Rho by considering a hypothetical stock that’s trading exactly at its strike price. If the stock is trading at $25, the 25 calls and the 25 puts would both be exactly at the money. You might see the calls trading at a price of $0.60, while the puts may trade at a price of $0.50. When interest rates are low, the difference will be relatively small. As interest rates increase, this difference between puts and calls whose strikes are equidistant from the underlying stock will get wider.
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Usefull resounces [Investopedia ](https://www.investopedia.com/search?q=option).
 
-### Support or Contact
+###  Contact
+...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+               [Twitter](https://twitter.com/ledgermex) 
+...
+
+
+ Mada with ❤️ by  `Ledgermex` 
