@@ -31,9 +31,9 @@ at $120 if called upon to do so.
 
 ```
 
+![Video Explainer](https://www.youtube.com/watch?v=4HMm6mBvGKE)
 
 
-Video: [Video explainer for dummies ](<blockquote class="imgur-embed-pub" lang="en" data-id="a/WOjPNOU"  ><a href="//imgur.com/a/WOjPNOU">123dtgfh</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>).
 
 ### RIGHTS AND OBLIGATIONS
 
