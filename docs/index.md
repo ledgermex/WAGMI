@@ -31,7 +31,7 @@ at $120 if called upon to do so.
 
 ```
 
-Video explainer for dummies [GitHub Flavored Markdown](https://www.youtube.com/watch?v=4HMm6mBvGKE).
+Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGKE).
 
 ### Jekyll Themes
 
