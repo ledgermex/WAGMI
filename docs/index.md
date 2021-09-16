@@ -357,7 +357,7 @@ Now, let's define each Greek in more detail.
 
 👉 [Video Explainer for the lazy homies](https://www.youtube.com/watch?v=33mgja-YrDY)
 
-###Delta: The hedge ratio
+### Delta: The hedge ratio
 
 The first Greek is Delta, which measures how much an option's price is expected to change per $1 change in the price of the underlying security or index. For example, a Delta of 0.40 means that the option’s price will theoretically move $0.40 for every $1 move in the price of the underlying stock or index.
 
