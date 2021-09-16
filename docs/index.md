@@ -217,6 +217,68 @@ Buying 100 shares can be prohibitively expensive for some investors but buying c
 The flip side with leverage of course is the higher risk and when buying call options, there is always a chance that the investor will lose 100% of their investment.
 
 
+### ADVANCED STRATEGIES
+
+Selling call options and buying calls and puts are simple strategies to get started in options trading. However, the possibilities are almost endless and there are many ways to trade different market opinions. This include advanced strategies such as:
+
+🚀 Iron Condors
+
+🚀 Ratio Spreads
+
+🚀 Calendar Spreads
+
+🚀 Diagonal Spreads
+
+🚀  Poor Man’s Covered Call
+
+🚀 Wheel Trade
+
+🚀 Strangles and Straddles
+
+🚀 Risk Reversal
+
+🚀 Double Diagonals
+
+🚀 Jade Lizard
+
+🚀 Trapdoor
+
+Once you understand the basics, the wonderful world of options starts to open all new possibilities.
+
+
+###    -Option Pricing-
+
+
+
+Option prices are determined by mathematical models such as the Black-Scholes or Binomial pricing models. Most traders do not have a thorough understanding of these models and to be honest, they don’t need to. The main thing to understand is that there are six key factors that determine an options price:
+ Current price of the underlying asset
+ The time to expiration
+ The strike price of the option
+ The level of implied volatility
+ Interest rates
+ Any dividends payable during the life of the option
+Before we look at the six factors, let’s discuss Intrinsic Value and Extrinsic Value (Time Value).
+INTRINSIC VALUE
+Intrinsic value is the difference between the strike price of the options and the current price of the underlying asset.
+It is the portion of an option’s price that is not lost due to the passage of time.
+CALL OPTION INTRINSIC VALUE
+The intrinsic value of a call option can be calculated as the underlying asset price minus the call strike price.
+Let’s say ABC Corporation is trading at $105 and a $100 call option is trading for $7. This call option has intrinsic value of $5, calculated at $105 - $100. The remaining $2 is time value or extrinsic value.
+If we had a $110 call option trading for $0.50, it would have $0 intrinsic value because the call option is out-of- the-money. $105 minus $110 is less than zero so there is zero intrinsic value and the option price is made up entirely of time value.
+PUT OPTION INTRINSIC VALUE
+For a put option the intrinsic value is calculated as the put strike price minus the price of the underlying asset.
+In our ABC example, a put with a strike price of $110 would have $5 of intrinsic value ($110 - $105) and a put with a strike price of $95 would have zero intrinsic value and be made up entirely of time value.
+TIME VALUE OF OPTIONS
+Time value of an option is the amount of the option premium that is not made up of intrinsic value.
+Time value is calculated as the option price minus the intrinsic value.
+The longer in time until an options expiry, the greater the time value.
+Time value represents the amount you are prepared to pay for the possibility of the market moving in your favour during the life of the option.
+Time value will vary between in-the-money, at-the-money and out-of-the-money options and is highest for at- the-money options.
+Out-of-the-money options are comprised entirely of time value.
+Deep in-the-money options will be made up of mostly intrinsic value and will have very little time value.
+As time draws closer to expiry, the chance of a favourable movement in the underlying asset declines and therefore the time value declines.
+This erosion of time value is called time decay. Time decay picks up speed as expiration approaches. Some of you may have seen a similar chart to this:
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
