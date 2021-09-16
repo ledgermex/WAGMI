@@ -115,8 +115,106 @@ In this chapter, we’ll take a look at the seven basic characteristics of all o
 ☑️ American Vs European
 
 
+### UNDERLYING ASSET
 
+As we know, the definition of an option is that it is a contract giving the owner (buyer) of the option the right (but not the obligation) to buy or sell a defined quantity of a defined asset. This asset is called the underlying asset or sometimes just underlying.
+Options can be traded on many different underlying assets, particularly in the United States and the universe of underlying assets has expanded rapidly in the last five to ten years.
+The most common underlying assets are common stocks (shares in companies trading on the stock exchange).
+Other popular assets for option traders include indexes such as the S&P 500, Nasdaq and Russell 2000. The Russell 2000 is a particular favorite with option traders because of the high volatility, high liquidity and 10 point strikes.
+Options can also be traded on futures, bonds, interest rates, currencies and ETF’s.
 
+### CALL VS PUT
+
+There are two basic types of options – call options and put options. As a reminder A call option gives you the right, but not obligation, to buy the underlying asset. A put option gives you the right, but not obligation, to sell the underlying asset. CONTRACT SIZE
+An options contract represents exposure to a number of underlying shares. The standard contract size is generally 100.
+This can occasionally change if there is a corporate action such as a reorganization or a new issuance of shares.
+In the case of an index option, the contract value is fixed at a certain number of dollars per index point. The size of the contract is equal to the index level x the dollar value per index point. For example, S&P500 (SPX) options have a value of $100, so for an option contract with a strike price of 2,800, one contract would be 2,800 x 100 = 280,000.
+
+### EXPIRATION DATE
+
+Options have a limited life span and expire on a certain date. The expiration date is the day on which all unexercised options expire and can no longer be traded. The expiration date is fixed during the life of an option and will not change. Any options that are not exercised before expiration become worthless.
+The expiration date for listed stock options in the United States is normally the third Friday of the contract month or the month that the contract expires. On months that the Friday falls on a holiday, the expiration date is on the Thursday immediately before the third Friday.
+Some brokers will automatically exercise any options that are in-the-money by more than $0.01. If a trader doesn’t want the option to be exercised, they should close out the position prior to expiration.
+European style monthly Index options also expire on a third Friday of the month, however the last trading day for Index options is the Thursday. This can result in a significantly different settlement price than the Thursday closing price. 
+In the last few years there has been an explosion in the number of weekly options available. In some underlying instruments like SPX, there are options expiring every few days.
+
+### STRIKE PRICE
+
+The strike price is the predetermined price for buying or selling the underlying asset.
+The strike price does not change through the life of the option unless there is a corporation action such as a reorganization.
+Depending on the underlying asset, there are usually many different strike prices available.
+Taking a quick look at SPY options for the next month’s expiration date shows strike prices available from $140 to $225 in 5-point intervals then from $225 to $325 in 1-point intervals, then again from $325 to $400 in 5-point intervals.
+Compare that to a less popular underlying asset like IYT and we have $155 to $175 in 5-point intervals, then $175 to $200 in 1-point intervals and $200 to $220 in 5-point intervals.
+
+### PREMIUM
+
+The premium is the price of the option which is determined by the buyer and seller of the option. Option premium is determined by market participants with market makers playing a huge role in determining the price of options.
+Option premiums are quoted in cents per share. To calculate the total premium cost, traders need to take the price in cents times the multiplier. An option contract quoted at $1.20 would cost $120 to buy ($1.20 x 100).
+Option premiums are higher for high volatility stocks which reflects the chance of higher movement in the underlying over the course of the options life.
+For example, an at-the-money call option on a high volatility stock like ROKU trades for around $14.00 whereas a similar call on a low volatility stock like JNJ trades for around $4.00.
+Option premium will also depend on the price of the underlying stock. A stock like AMZN which is currently trading at $1720 has at-the-money options trading around $65.
+Compare that to a low-price stock like GE which is trading at $8.30 where at-the-money options trade for only $0.20 - $0.30.
+
+### AMERICAN VS EUROPEAN
+ 
+The difference between American and European options relates to when the owner of the option can exercise the option. American style options can be exercised at any point during the options life, but a European style option can only be exercised at a single point in its life – the moment it expires.
+Exercising an option has nothing to do with trading an option and both style of options trade exactly the same way during their lifetime.
+The terms American and European have nothing to do with geographic locations. Both types of options trade in many places. European style options are very common on American exchanges (SPX, RUT and NDX are all European style options).
+Use Cases of Options
+Let’s look at some practical examples of how you can make options work for you.
+
+### INCOME GENERATION
+
+Selling call options against shares already owned is one of the simplest and most rewarding ways to trade options. It’s a great way to get started for those that are new to options.
+It’s a logical place to start if you’re familiar with share ownership.
+Selling options over shares you own, generates income in additional to any dividends earned while holding the shares. The risk of course, is that your shares might get called away if they rise strongly. You are also limited your upside because any gains the stock makes above the strike price are not captured.
+
+...
+Let’s look at a couple of examples:ù
+...
+
+### SCENARIO 1: SELLING OPTIONS ON SHARES YOU ALREADY OWN
+
+Assume you already hold 100 shares of ABC Corporation as part of a diversified long-term retirement portfolio.
+The current price is $60 and you would be happy to sell your shares if the price reached $62.50. You look in your brokerage account and see that a 3-month $62.50 call option is trading with a bid price of $0.98 and an ask price of $1.02.
+You place an order to sell the $62.50 call option for $1.00 which is the mid-point of the bid-ask spread.
+Assuming your order gets filled, you will receive $100 in premium ($1.00 x 100 shares in the contract) which is yours to keep.
+As an option seller, you now have the obligation to sell your shares for $62.50 if called upon to do so at any time during the life of the option.
+  
+   If ABC Corporation is trading above $62.50 at expiry, your shares will be called away and you will have made a nice profit.
+IF ABC Corporation is trading below $62.50 at expiry, you get to keep your shares, and the $100 option income. You can now continue to hold the shares or sell a new call option.
+
+### SCENARIO 2: SELLING A PUT OPTION ON A STOCK YOU ARE HAPPY TO OWN
+
+In this example, you don’t own any ABC Corporation shares, but would be happy to buy them for $57.50.
+Upon checking the option quotes, you see that a 3-month $57.50 put option on ABC Corporation is trading with a bid price of $1.12 and an ask price of $1.16.
+You place an order to sell the $57.50 put option for $1.14. Assuming your order is filled, you receive $114 in premium.
+You now have the obligation to buy 100 shares of ABC Corporation at $57.50 if called upon to do so during the life of the option.
+If ABC Corporation is trading above $57.50 at expiry, your put option expires worthless and you have generated $114 in income.
+If ABC Corporation is trading below $57.50, your put option will be assigned and you will be required to buy 100 shares at $57.50.
+The net cost of the purchase is $56.36 which is calculated as the strike price less the premium received ($57.50 - $1.14).
+Selling put options is a great way to take ownership of shares you want to buy for a lower cost price.
+The downside is that $114 is the maximum profit you can make, no matter how high ABC Corporation’s shares go.
+
+### PORTFOLIO PROTECTION
+Options are a fantastic way to protect against a short-term fall in a stock’s price without having to sell your shares.
+Selling call options was covered under income generation and does give some small protection against a drop in a stock’s price, but the protection is limited to the amount of premium received.
+Any further falls are not protected.
+A way to obtain more protection is by buying a put option.
+Using ABC Corporation again, the stock is trading at $60 and you are worried about a sharp decline. You want to lock in a sale price in case things get really bad.
+  
+Instead of selling the 3-month $57.50 put option as in the previous example, this time we buy the put option.
+The put option costs $1.14 or $114 in total and we have a guaranteed sale price of $57.50, no matter how low the stock goes.
+Even if the company goes bankrupt and the share price goes to $0, you can still sell you shares for $57.50. You can see why options are such a great tool for portfolio protection!
+Think of buying a put like buying an insurance contract. You pay a premium and receive coverage in the event of a disaster.
+If the disaster doesn’t happen, you lose the premium that you paid, but you don’t mind because you were able to sleep at night knowing that you had protection against the worst-case scenario.
+
+### LEVERAGED EXPOSURE
+
+Speculators can choose to try and profit by predicting movements in the underlying shares. Traders can achieve far greater returns using options as opposed to just buying or selling shares.
+Buying call options allows traders to profit from an increase in the price of the underlying asset.
+Buying 100 shares can be prohibitively expensive for some investors but buying call options allows traders to leverage their capital to potentially achieve higher returns.
+The flip side with leverage of course is the higher risk and when buying call options, there is always a chance that the investor will lose 100% of their investment.
 
 
 
