@@ -51,12 +51,13 @@ On the other hand, if the holder does exercise the option, the seller of the opt
 ...
 
 
-### Why Use Options
+### Why Use Options☑
 
 Options can be used for four main purposes:
- Hedging/Risk Management  Leverage
- Income
- Speculation
+
+☑️ Hedging/Risk Management  Leverage
+☑️ Income
+☑️ Speculation
 
 ### HEDGING / RISK MANAGEMENT
 
