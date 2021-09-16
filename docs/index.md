@@ -31,7 +31,7 @@ at $120 if called upon to do so.
 
 ```
 
-👉 [Video Explainer](https://www.youtube.com/watch?v=4HMm6mBvGKE)
+👉 [Video Explainer for the lazy homies](https://www.youtube.com/watch?v=4HMm6mBvGKE)
 
 
 
@@ -353,6 +353,9 @@ Greeks, including Delta, Gamma, Theta, Vega and Rho, measure the different facto
 Since there are a variety of market factors that can affect the price of an option in some way, assuming all other factors remain unchanged, we can use these pricing models to calculate the Greeks and determine the impact of each factor when its value changes. For example, if we know that an option typically moves less than the underlying stock, we can use Delta to determine how much it is expected to move when the stock moves $1. If we know that an option loses value over time, we can use Theta to approximate how much value it loses each day.
 
 Now, let's define each Greek in more detail.
+
+
+👉 [Video Explainer for the lazy homies](https://www.youtube.com/watch?v=33mgja-YrDY)
 
 ###Delta: The hedge ratio
 
