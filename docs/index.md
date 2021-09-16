@@ -41,14 +41,16 @@ The fact that the individual or institution who holds the option has the right a
 On the other hand, if the holder does exercise the option, the seller of the option must fulfill the contract.
 
 
-...
-                         Buyer has all the rights                       Seller get all the obligation
+
+                                Buyer has all the rights                       Seller get all the obligation
+                         
+                         
                         
- CALLS                   Right to buy the asset                            Obliged to sell the asset
+ CALLS         ------          Right to buy the asset                            Obliged to sell the asset
 
- PUTS                    Right to sell the asset                           Obliget to buy the asset
+ PUTS          ------          Right to sell the asset                           Obliget to buy the asset
 
-...
+
 
 
 ### Why Use Options☑
