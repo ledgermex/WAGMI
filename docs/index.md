@@ -31,7 +31,7 @@ at $120 if called upon to do so.
 
 ```
 
-![Video Explainer](https://www.youtube.com/watch?v=4HMm6mBvGKE)
+[Video Explainer](https://www.youtube.com/watch?v=4HMm6mBvGKE)
 
 
 
