@@ -42,13 +42,68 @@ On the other hand, if the holder does exercise the option, the seller of the opt
 
 
 ...
-                         °°°Buyer has all the rights °°°                         Seller get all the obligation
+                         Buyer has all the rights                       Seller get all the obligation
                         
  CALLS                   Right to buy the asset                            Obliged to sell the asset
 
  PUTS                    Right to sell the asset                           Obliget to buy the asset
 
 ...
+
+
+### Why Use Options
+
+Options can be used for four main purposes:
+ Hedging/Risk Management  Leverage
+ Income
+ Speculation
+
+### HEDGING / RISK MANAGEMENT
+
+Options are a fantastic tool for hedging exposure to a certain asset. Let’s say an investor has a portfolio of S&P500 stocks and is concerned about a drop in their value over the next few months.
+
+
+Buying an SPX put option would give the investor some downside protection. If the S&P500 falls, the value of the investors stock portfolio will drop, but he will have made some profits from the bought put which will help offset the losses.
+This is a simple example and there are many different ways in which options can be used for hedging and risk management.
+
+### LEVERAGE
+
+Since options cost only a small fraction of the price of the underlying asset an investor can gain a larger exposure to a certain security by buying put or call options instead of buying the underlying asset directly. This particular feature of options is known as leverage.
+Let’s say you want to invest in ABC Corporation stock, as you think the price of its shares will go up over the next 3 months. If you have $1,000 and the shares cost $50 you could only buy 20 shares.
+Instead, you could buy 2 call option contracts for $500 that give you the right to buy 100 ABC Corporation shares at $50, 3 months from now.
+If the price of ABC’s shares goes up to $60 you will earn a 20% return if you invested in the shares directly.
+At expiry, the $50 call option would be worth $10 with the underlying stock trading at $50. In this case, the call option has achieved a 100% return.
+However, leverage cuts both ways and if the stock doesn’t move as expected, the investor could lose 100% of their investment.
+
+### INCOME
+
+Using options to generate income is a popular strategy with investors. Covered calls are a logical place for stock investors to start because it is an easy scenario to understand.
+Investors who sell call options on shares they own, can produce an income in addition to any dividends earned.
+By selling a call option, the investor gets to keep the option premium, but there is a possibility that the shares will get called away if the stock price rises above the strike price of the sold call.
+Covered calls will be covered in more detail shortly.
+Other investors will use options to generate income on shares they have no ownership of via more advanced strategies such as vertical spreads, iron condors, calendar spreads and butterflies.
+SPECULATION
+Many investors and traders will use options to speculate on the market. Those expecting the market to rise might buy call options in the hope of making a large potential return.
+Those expecting the market to drop might buy put options. Other traders may opt for income generating strategies.
+The great thing about options is that there are many strategies that can be used, no matter what your market outlook or opinion.
+
+
+### Option Features
+
+In this chapter, we’ll take a look at the seven basic characteristics of all option contracts:
+
+ Underlying Asset
+ Call vs Put
+ Contract Size
+ Expiration Date
+ Strike Price
+ Premium
+ American Vs European
+
+
+
+
+
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
