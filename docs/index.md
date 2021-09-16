@@ -30,7 +30,7 @@ at $120 if called upon to do so.
 
 
 ```
-
+[![Option for Dummies](https://img.https://www.youtube.com/watch?v=4HMm6mBvGKE.jpg)](https://www.youtube.com/watch?v=4HMm6mBvGKE "Option for dummies")
 
 
 Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGKE).
