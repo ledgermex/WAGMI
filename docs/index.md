@@ -40,7 +40,7 @@ Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGK
 The fact that the individual or institution who holds the option has the right and not the obligation to exercise the derivative means that if the result of the operation turns out to be unprofitable, the holder can abstain from completing the transaction and his sole loss would be the premium paid to purchase the option.
 On the other hand, if the holder does exercise the option, the seller of the option must fulfill the contract.
 
-![Rights and obligations(https://imgur.com/gallery/WOjPNOU)
+![Rights and obligations](https://imgur.com/gallery/WOjPNOU)
 
 Why Use Options
 Options can be used for four main purposes:
