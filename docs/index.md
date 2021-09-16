@@ -58,9 +58,13 @@ On the other hand, if the holder does exercise the option, the seller of the opt
 Options can be used for four main purposes:
 
 ☑️ Hedging/Risk Management
+
 ☑️ Leverage
+
 ☑️ Income
+
 ☑️ Speculation
+
 
 ### HEDGING / RISK MANAGEMENT
 
@@ -96,13 +100,19 @@ The great thing about options is that there are many strategies that can be used
 
 In this chapter, we’ll take a look at the seven basic characteristics of all option contracts:
 
- Underlying Asset
- Call vs Put
- Contract Size
- Expiration Date
- Strike Price
- Premium
- American Vs European
+☑️ Underlying Asset
+
+☑️ Call vs Put
+
+☑️ Contract Size
+
+☑️ Expiration Date
+
+☑️ Strike Price
+
+☑️ Premium
+
+☑️ American Vs European
 
 
 
