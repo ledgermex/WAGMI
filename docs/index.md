@@ -1,4 +1,4 @@
-## OOptions for Dummies 
+## Options for Dummies 
 
 ### INTRODUCTION
 
@@ -9,18 +9,24 @@ An option is a contract between two parties giving the taker (buyer) the right, 
 
 ### CALL OPTIONS
 
-A call option is a financial contract that gives the holder the right, but not the obligation, to purchase a
-certain underlying asset at a certain price, known as the strike price.
+A call option is a financial contract that gives the holder the right, but not the obligation,
+to purchase a certain underlying asset at a certain price, known as the strike price.
 For example, ABC Corporation is trading at $120. A one-month call option is trading for $3.50.
-The buyer of this call option has the right, but not the obligation to buy 100 shares of ABC for $120 per share at any time during the life of the contract. For this right, the buyer of the contract pays $3.50 to the seller.
-The seller of the contract receives and keeps the $3.50 but is obligated to deliver 100 shares at $120 if called upon to do so.
+The buyer of this call option has the right, but not the obligation to buy 100 shares of ABC 
+for $120 per share at any time during the life of the contract. For this right, the buyer of 
+the contract pays $3.50 to the seller.
+The seller of the contract receives and keeps the $3.50 but is obligated to deliver 100 shares
+at $120 if called upon to do so.
 
 ### PUT OPTIONS
-In turn, a put option is a financial contract that gives the holder the right, but not the obligation, to sell a certain underlying asset at the strike price on or before expiry.
+In turn, a put option is a financial contract that gives the holder the right, but not the
+obligation, to sell a certain underlying asset at the strike price on or before expiry.
 Using the example of ABC Corporation trading at $120, a one-month put option is trading at $4.00.
-The buyer of this put option has the right, but not the obligation to sell 100 shares of ABC for $120 per share at any time during the life of the contract.
+The buyer of this put option has the right, but not the obligation to sell 100 shares of ABC for
+$120 per share at any time during the life of the contract.
 For this right, the buyer of the put contract pays $4.00 to the seller.
-The seller of the contract receives and keeps the $4.00 but is obligated to buy 100 shares at $120 if called upon to do so.
+The seller of the contract receives and keeps the $4.00 but is obligated to buy 100 shares
+at $120 if called upon to do so.
 
 
 ```
