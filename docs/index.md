@@ -336,6 +336,97 @@ Options prices will anticipate the dividend amounts weeks and months in advance.
 Dividends are an important factor when deciding whether to exercise options early. Whoever owns the stock on the ex-dividend date receives the dividend, so call option holders may exercise the option early in order to capture the dividend.
 
 
+
+### LAST STEP: THE GREEKS
+
+Armed with Greeks, an options trader can make more informed decisions about which options to trade and when to trade them. Consider some of the things Greeks may help you do:
+
+Gauge the likelihood that an option you’re considering will expire in the money (Delta).
+Estimate how much the Delta will change when the stock price changes (Gamma).
+Get a feel for how much value your option might lose each day as it approaches expiration (Theta).
+Understand how sensitive an option might be to large price swings in the underlying stock (Vega).
+Simulate the effect of interest rate changes on an option (Rho).
+
+
+Greeks, including Delta, Gamma, Theta, Vega and Rho, measure the different factors that affect the price of an option contract. They are calculated using a theoretical options pricing model.
+
+Since there are a variety of market factors that can affect the price of an option in some way, assuming all other factors remain unchanged, we can use these pricing models to calculate the Greeks and determine the impact of each factor when its value changes. For example, if we know that an option typically moves less than the underlying stock, we can use Delta to determine how much it is expected to move when the stock moves $1. If we know that an option loses value over time, we can use Theta to approximate how much value it loses each day.
+
+Now, let's define each Greek in more detail.
+
+###Delta: The hedge ratio
+
+The first Greek is Delta, which measures how much an option's price is expected to change per $1 change in the price of the underlying security or index. For example, a Delta of 0.40 means that the option’s price will theoretically move $0.40 for every $1 move in the price of the underlying stock or index.
+
+Call options
+
+Have a positive Delta that can range from 0.0 to 1.00.
+At-the-money options usually have a Delta near 0.50.
+The Delta will increase (and approach 1.00) as the option gets deeper in the money.
+The Delta of in-the-money call options will get closer to 1.00 as expiration approaches.
+The Delta of out-of-the-money call options will get closer to 0.0 as expiration approaches.
+
+
+Put options
+
+Have a negative Delta that can range from 0.0 to -1.00.
+At-the-money options usually have a Delta near -0.50.
+The Delta will decrease (and approach -1.00) as the option gets deeper in the money.
+The Delta of in-the-money put options will get closer to -1.00 as expiration approaches.
+The Delta of out-of-the-money put options will get closer to 0.0 as expiration approaches.
+ 
+You can think of Delta, as the probability that a given option will expire in the money. For example, a Delta of 0.40 means the option has about a 40% chance of being in the money at expiration. This doesn’t mean your trade will be profitable. That of course, depends on the price at which you bought or sold the option.
+
+You also might think of Delta, as the number of shares of the underlying stock, the option behaves like. A Delta of 0.40 also means that given a $1 move in the underlying stock, the option will likely gain or lose about the same amount of money as 40 shares of the stock.
+
+
+### Gamma: the rate of change of Delta
+
+Gamma measures the rate of change in an option’s Delta per $1 change in the price of the underlying stock. Since a Delta is only good for a given moment in time, Gamma tells you how much the option’s Delta should change as the price of the underlying stock or index increases or decreases. If you remember high school physics class, you can think of Delta as speed and Gamma as acceleration.
+
+Let's walk through the relationship between Delta and Gamma:
+
+Delta is only accurate at a certain price and time. In the Delta example above, once the stock has moved $1 and the option has subsequently moved $.40, the Delta is no longer 0.40. As we stated, this $1 move would cause a call option to be deeper in the money, and therefore the Delta will move closer to 1.00. Let's assume the Delta is now 0.55. This change in Delta from 0.40 to 0.55 is 0.15—this is the option’s Gamma.
+
+Because Delta can’t exceed 1.00, Gamma decreases as an option gets further in the money and Delta approaches 1.00.
+
+### Theta: time decay
+
+Theta measures the change in the price of an option for a one-day decrease in its time to expiration. Simply put, Theta tells you how much the price of an option should decrease as the option nears expiration.
+
+Since options lose value as expiration approaches, Theta estimates how much value the option will lose, each day, if all other factors remain the same.
+
+Because time-value erosion is not linear, Theta of at-the-money (ATM), just slightly out-of-the-money and in-the-money (ITM) options generally increases as expiration approaches, while Theta of far out-of-the-money (OOTM) options generally decreases as expiration approaches.
+
+
+### Vega: sensitivity to volatility
+Vega measures the rate of change in an option’s price per 1% change in the implied volatility of the underlying stock. While Vega is not a real Greek letter, it is intended to tell you how much an option’s price should move when the volatility of the underlying security or index increases or decreases.
+
+More about Vega:
+
+Vega measures how the implied volatility of a stock affects the price of the options on that stock.
+Volatility is one of the most important factors affecting the value of options.
+A drop in Vega will typically cause both calls and puts to lose value.
+An increase in Vega will typically cause both calls and puts to gain value.
+ 
+Neglecting Vega can cause you to overpay when buying options. All other factors being equal, when determining strategy, consider buying options when Vega is below “normal” levels and selling options when Vega is above “normal” levels. One way to determine this is to compare the historical volatility to the implied volatility. Chart studies for both of these values exist within StreetSmart Edge®.
+
+Rho: sensitivity to interest rates
+Rho measures the expected change in an option’s price per one percentage point change in interest rates. It tells you how much the price of an option should rise or fall if the risk-free interest rate (U.S. Treasury-bills)* increases or decreases.
+
+More about Rho:
+
+As interest rates increase, the value of call options will generally increase.
+As interest rates increase, the value of put options will usually decrease.
+For these reasons, call options have positive Rho and put options have negative Rho.
+ 
+Rho is generally not a huge factor in the price of an option, but should be considered if prevailing interest rates are expected to change, such as just before a Federal Open Market Committee (FOMC) meeting.
+
+Long-Term Equity AnticiPation Securities® (LEAPS®) options are far more sensitive to changes in interest rates than are shorter-term options. 
+
+You can see the effects of Rho by considering a hypothetical stock that’s trading exactly at its strike price. If the stock is trading at $25, the 25 calls and the 25 puts would both be exactly at the money. You might see the calls trading at a price of $0.60, while the puts may trade at a price of $0.50. When interest rates are low, the difference will be relatively small. As interest rates increase, this difference between puts and calls whose strikes are equidistant from the underlying stock will get wider.
+
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
