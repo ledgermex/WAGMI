@@ -432,11 +432,8 @@ You can see the effects of Rho by considering a hypothetical stock that’s trad
 
 Usefull resounces [Investopedia ](https://www.investopedia.com/search?q=option).
 
-###  Contact
-...
-
-               [Twitter](https://twitter.com/ledgermex) 
-...
 
 
- Mada with ❤️ by  `Ledgermex` 
+
+
+ Mada with ❤️ by  [Ledgermex](https://twitter.com/ledgermex)
