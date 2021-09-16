@@ -46,9 +46,9 @@ On the other hand, if the holder does exercise the option, the seller of the opt
                          
                          
                         
- CALLS         -----------         Right to buy the asset       ---------------------       Obliged to sell the asset
+ CALLS         -----------         Right to buy the asset       -------------------------       Obliged to sell the asset
 
- PUTS          -----------         Right to sell the asset      ---------------------        Obliget to buy the asset
+ PUTS          -----------         Right to sell the asset      -------------------------        Obliget to buy the asset
 
 
 
