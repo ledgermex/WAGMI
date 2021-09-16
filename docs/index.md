@@ -46,9 +46,9 @@ On the other hand, if the holder does exercise the option, the seller of the opt
                          
                          
                         
- CALLS         -----------         Right to buy the asset       -----------------       Obliged to sell the asset
+ CALLS         -----------         Right to buy the asset       ---------------------       Obliged to sell the asset
 
- PUTS          -----------         Right to sell the asset      -----------------        Obliget to buy the asset
+ PUTS          -----------         Right to sell the asset      ---------------------        Obliget to buy the asset
 
 
 
@@ -251,24 +251,39 @@ Once you understand the basics, the wonderful world of options starts to open al
 
 
 Option prices are determined by mathematical models such as the Black-Scholes or Binomial pricing models. Most traders do not have a thorough understanding of these models and to be honest, they don’t need to. The main thing to understand is that there are six key factors that determine an options price:
- Current price of the underlying asset
- The time to expiration
- The strike price of the option
- The level of implied volatility
- Interest rates
- Any dividends payable during the life of the option
+
+
+-Current price of the underlying asset
+
+-The time to expiration
+
+-The strike price of the option
+
+-The level of implied volatility
+
+-Interest rates
+
+ Any dividends payable during the life of the option
 Before we look at the six factors, let’s discuss Intrinsic Value and Extrinsic Value (Time Value).
-INTRINSIC VALUE
+
+### INTRINSIC VALUE
+
 Intrinsic value is the difference between the strike price of the options and the current price of the underlying asset.
 It is the portion of an option’s price that is not lost due to the passage of time.
-CALL OPTION INTRINSIC VALUE
+
+###CALL OPTION INTRINSIC VALUE
+
 The intrinsic value of a call option can be calculated as the underlying asset price minus the call strike price.
 Let’s say ABC Corporation is trading at $105 and a $100 call option is trading for $7. This call option has intrinsic value of $5, calculated at $105 - $100. The remaining $2 is time value or extrinsic value.
 If we had a $110 call option trading for $0.50, it would have $0 intrinsic value because the call option is out-of- the-money. $105 minus $110 is less than zero so there is zero intrinsic value and the option price is made up entirely of time value.
-PUT OPTION INTRINSIC VALUE
+
+###PUT OPTION INTRINSIC VALUE
+
 For a put option the intrinsic value is calculated as the put strike price minus the price of the underlying asset.
 In our ABC example, a put with a strike price of $110 would have $5 of intrinsic value ($110 - $105) and a put with a strike price of $95 would have zero intrinsic value and be made up entirely of time value.
-TIME VALUE OF OPTIONS
+
+###TIME VALUE OF OPTIONS
+
 Time value of an option is the amount of the option premium that is not made up of intrinsic value.
 Time value is calculated as the option price minus the intrinsic value.
 The longer in time until an options expiry, the greater the time value.
