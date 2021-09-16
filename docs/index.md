@@ -271,18 +271,18 @@ Before we look at the six factors, let’s discuss Intrinsic Value and Extrinsic
 Intrinsic value is the difference between the strike price of the options and the current price of the underlying asset.
 It is the portion of an option’s price that is not lost due to the passage of time.
 
-###CALL OPTION INTRINSIC VALUE
+### CALL OPTION INTRINSIC VALUE
 
 The intrinsic value of a call option can be calculated as the underlying asset price minus the call strike price.
 Let’s say ABC Corporation is trading at $105 and a $100 call option is trading for $7. This call option has intrinsic value of $5, calculated at $105 - $100. The remaining $2 is time value or extrinsic value.
 If we had a $110 call option trading for $0.50, it would have $0 intrinsic value because the call option is out-of- the-money. $105 minus $110 is less than zero so there is zero intrinsic value and the option price is made up entirely of time value.
 
-###PUT OPTION INTRINSIC VALUE
+### PUT OPTION INTRINSIC VALUE
 
 For a put option the intrinsic value is calculated as the put strike price minus the price of the underlying asset.
 In our ABC example, a put with a strike price of $110 would have $5 of intrinsic value ($110 - $105) and a put with a strike price of $95 would have zero intrinsic value and be made up entirely of time value.
 
-###TIME VALUE OF OPTIONS
+### TIME VALUE OF OPTIONS
 
 Time value of an option is the amount of the option premium that is not made up of intrinsic value.
 Time value is calculated as the option price minus the intrinsic value.
@@ -307,7 +307,7 @@ For example, the $105 strike puts are almost worthless at only $0.30 for PG, thi
 The ROKU $105 put on the other hand is valued at $5.30 showing that the market thinks there is a good chance that ROKU might reach that level before expiry.
 
 
-###OPTION PRICING AND VOLATILITY
+### OPTION PRICING AND VOLATILITY
 
 As we have seen above, the level of volatility can have a big impact on the prices of options, but how do we know the volatility of an underlying asset?
 There are two different types of volatility – historical volatility and implied volatility.
@@ -321,7 +321,7 @@ This could include an earnings announcement or the release of drug trial results
 The current state of the general market is also incorporated into implied volatility estimates. If markets are calm, volatility estimates are low, but during times of market stress volatility estimates will be raised.
 One very simple way to keep an eye on the general market levels of volatility is to monitor the VIX Index.
 
-###OPTION PRICING AND INTEREST RATES
+### OPTION PRICING AND INTEREST RATES
 
 Interest rates also have an impact on option prices, however the impact is minimal and certainly much less than the impact of volatility.
 Shorter-term options are also less impacted by changes in interest rates.
