@@ -42,7 +42,7 @@ On the other hand, if the holder does exercise the option, the seller of the opt
 
 
 
-                                Buyer has all the rights                       Seller get all the obligation
+        Buyer has all the rights                       Seller get all the obligation
                          
                          
                         
