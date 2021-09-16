@@ -37,6 +37,10 @@ at $120 if called upon to do so.
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
+
+[![IMAGE ALT TEXT HERE](https://imgur.com/a/zdl38ZP)](https://www.youtube.com/watch?v=4HMm6mBvGKE)
+
+
 Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGKE).
 
 ### RIGHTS AND OBLIGATIONS
