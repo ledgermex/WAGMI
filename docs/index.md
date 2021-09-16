@@ -30,15 +30,7 @@ at $120 if called upon to do so.
 
 
 ```
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=4HMm6mBvGKE" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=4HMm6mBvGKE"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
-[![IMAGE ALT TEXT HERE](https://imgur.com/a/zdl38ZP)](https://www.youtube.com/watch?v=4HMm6mBvGKE)
 
 
 Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGKE).
@@ -48,6 +40,16 @@ Video: [Video explainer for dummies ](https://www.youtube.com/watch?v=4HMm6mBvGK
 The fact that the individual or institution who holds the option has the right and not the obligation to exercise the derivative means that if the result of the operation turns out to be unprofitable, the holder can abstain from completing the transaction and his sole loss would be the premium paid to purchase the option.
 On the other hand, if the holder does exercise the option, the seller of the option must fulfill the contract.
 
+[![IMAGE ALT TEXT HERE](https://imgur.com/gallery/WOjPNOU]
+
+Why Use Options
+Options can be used for four main purposes:
+ Hedging/Risk Management  Leverage
+ Income
+ Speculation
+HEDGING / RISK MANAGEMENT
+Options are a fantastic tool for hedging exposure to a certain asset. Let’s say an investor has a portfolio of S&P500 stocks and is concerned about a drop in their value over the next few months.
+ 
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ledgermex/WAGMI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
