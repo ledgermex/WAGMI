@@ -244,6 +244,8 @@ Selling call options and buying calls and puts are simple strategies to get star
 🚀 Trapdoor
 
 Once you understand the basics, the wonderful world of options starts to open all new possibilities.
+### One of the best YouTube channel for learning Options Stategies is :  [SkyTrading](hhttps://www.youtube.com/c/athomastrader/videos)
+
 
 
 ###    -Option Pricing-
