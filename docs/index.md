@@ -248,22 +248,22 @@ Once you understand the basics, the wonderful world of options starts to open al
 
 
 
-###    -Option Pricing-
+###    Option Pricing
 
 
 
 Option prices are determined by mathematical models such as the Black-Scholes or Binomial pricing models. Most traders do not have a thorough understanding of these models and to be honest, they don’t need to. The main thing to understand is that there are six key factors that determine an options price:
 
 
--Current price of the underlying asset
+- Current price of the underlying asset
 
--The time to expiration
+- The time to expiration
 
--The strike price of the option
+- The strike price of the option
 
--The level of implied volatility
+- The level of implied volatility
 
--Interest rates
+- Interest rates
 
  Any dividends payable during the life of the option
 Before we look at the six factors, let’s discuss Intrinsic Value and Extrinsic Value (Time Value).
