@@ -169,9 +169,9 @@ Selling call options against shares already owned is one of the simplest and mos
 It’s a logical place to start if you’re familiar with share ownership.
 Selling options over shares you own, generates income in additional to any dividends earned while holding the shares. The risk of course, is that your shares might get called away if they rise strongly. You are also limited your upside because any gains the stock makes above the strike price are not captured.
 
-...
-Let’s look at a couple of examples:ù
-...
+
+Let’s look at a couple of examples:
+
 
 ### SCENARIO 1: SELLING OPTIONS ON SHARES YOU ALREADY OWN
 
