@@ -441,4 +441,6 @@ Usefull resounces [Investopedia](https://www.investopedia.com/search?q=option)
 
 
 
- Made with ❤️ by  [Ledgermex](https://twitter.com/ledgermex) [👻💩🚀🤘](https://y.at/👻💩🚀🤘)
+ Made with ❤️ by  [Ledgermex](https://twitter.com/ledgermex) 
+ 
+ ### Visit my Yat for ref links and tip me [👻💩🚀🤘](https://y.at/👻💩🚀🤘)
