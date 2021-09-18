@@ -434,7 +434,7 @@ You can see the effects of Rho by considering a hypothetical stock that’s trad
 
 Usefull resounces [Investopedia](https://www.investopedia.com/search?q=option)
 
-[Deribit Option Couse](https://insights.deribit.com/options-course/)  /  [Deribit Option Account](https://www.deribit.com/reg-10179.4678)
+[Deribit Option Course](https://insights.deribit.com/options-course/)  /  [Deribit Option Account](https://www.deribit.com/reg-10179.4678)
 
 [Hxro Option Simplified](https://live.hxro.io/register?code=f3d3&campaign=$default) 
 
